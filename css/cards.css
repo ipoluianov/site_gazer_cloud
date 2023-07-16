@@ -29,9 +29,6 @@
         flex-direction: column;
         justify-content: flex-start;
     }
-    div.card_content_img {
-
-    }
     div.card_content_text {
         margin-top: 10px;
         font-size: 1.3em;
@@ -43,9 +40,7 @@
         color: #999999;
     }
     img.card_content_image {
-        //opacity: 50%;
-        //margin-right: 10px;
-        //sepia(50%);
+
         max-width: 300px;
         width: 300px;
     }
